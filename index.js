@@ -25,7 +25,7 @@ const { fromBuffer } = require('file-type')
 const bodyparser = require('body-parser')
 const mongoose = require('mongoose')
 
-const ownerNumber = ['923096287432']
+const ownerNumber = ['919728893187']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -88,17 +88,16 @@ let up = `> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄ�
 
 > *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+**ẉa.me/✫🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★**
 
 > *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
 
-*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
+**ẉa.me/✫🐰〽️ʀ🎧🆂ʌŋjʋ🎸||᭄★**
 
-╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮
-│✫➠ - *📂REPOSITORY NAME:* SILENT-SOBX-MD
+╭⊱✫🔮 SILENT-🆂ʌŋjʋ🎸-MD 🔮✫⊱╮
+│✫➠ - *📂REPOSITORY NAME:* SILENT-🆂ʌŋjʋ🎸-MD
 │✫➠ - *📃DESCRIPTION:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
 │✫➠ - *🛡️OWNER:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
-│✫➠ - *🌐 URL:* https://github.com/SILENTLOVER40/SILENT-SOBX-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
@@ -167,17 +166,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("919728893187")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("919728893187")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("919728893187")){
 if(isReact) return
 m.react("🦋")
 }
